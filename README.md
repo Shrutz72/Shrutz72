@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a passionate programmer with a knack for web d
 
 ## 🔧 Skills
 Here are some of the tools and technologies I love working with:
-- **Languages:**
-  - Python, Java, C, C++
+  - Python, Java, C, C++, MATLAB
+  - HTML, CSS, node.js, javascript
 
 ## 📫 Connect with Me
 I’d love to connect! You can find me on:
